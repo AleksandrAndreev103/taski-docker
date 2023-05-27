@@ -1,5 +1,5 @@
 name: Main Taski workflow
-# Комментарий
+
 on:
   push:
     branches:
